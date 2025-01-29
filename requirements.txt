@@ -1,0 +1,6 @@
+ale_py==0.10.1
+gymnasium==1.0.0
+matplotlib==3.10.0
+numpy==2.2.1
+stable_baselines3==2.4.0
+torch==2.5.1+cu118
